@@ -16,14 +16,14 @@ So I made a custom flight controller which can be used for an RC Plane . it is b
 
 | Item | Quantity | Unit Price (USD) | Total Price (USD) | Source |
 |------|:--------:|-----------------:|------------------:|--------|
-| PCB + PCBA | 1 | $154.46 | $154.46 | https://jlcpcb.com |
-| PCB Shipping | 1 | $17.32 | $17.32 | https://jlcpcb.com |
+| PCB + PCBA | 1 | $154.46 | $159.46 | https://jlcpcb.com |
+| PCB Shipping | 1 | $17.32 | $22.32 | https://jlcpcb.com |
 
 ## 💰 Cost Summary
 
 | Category | Amount (USD) |
 |----------|-------------:|
-| Total Component Cost | **$171.78** |
+| Total Component Cost | **$181.78** |
 
 ### Schematic
 <img width="1025" height="606" alt="Screenshot 2026-10-27 020426" src="https://github.com/user-attachments/assets/6baf4480-91b9-4835-9ee2-7628c4cb6a47" />
