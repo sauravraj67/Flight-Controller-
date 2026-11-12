@@ -1,4 +1,35 @@
-Item,Price,Source
-PCB + PCBA   ,159.46,jlcpcb.com
-PCB shipping   ,22.32,jlcpcb.com
-Total, 181.78 ,jlcpcb.com
+Record Type,Designation,Comment,Footprint,Part Number,Manufacturer,Description,Quantity,Total Price (USD),Link
+COMPONENT,"C1,C3,C7",10uf,0603,CL10A106KP8NNNC,Samsung Electro-Mechanics,10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,20,0.47,https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702
+COMPONENT,"C2,C4,C5,C8",0.1uf,0603,CC0603KRX7R9BB104,YAGEO,100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,27,0.16,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
+COMPONENT,"C10,C9",100nf,0603,CC0603KRX7R9BB104,YAGEO,100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,27,0.16,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
+COMPONENT,C6,2.2uf,0603,CL10A225KO8NNNC,Samsung Electro-Mechanics,16V 2.2uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,20,0.20,https://jlcpcb.com/partdetail/24366-CL10A225KO8NNNC/C23630
+COMPONENT,"C11,C12",12pf,0603,CL10C120JB8NNNC,Samsung Electro-Mechanics,12pF 50V C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,20,0.14,https://jlcpcb.com/partdetail/39506-CL10C120JB8NNNC/C38523
+COMPONENT,"C13,C15,C16,C17",100pf,0603,CL10C101JB8NNNC,Samsung Electro-Mechanics,100pF 50V C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,20,0.16,https://jlcpcb.com/partdetail/15530-CL10C101JB8NNNC/C14858
+COMPONENT,"D1,D2",LED,0201,MHT126UBCT,MEIHUA,0201 LED Indication - Discrete ROHS,20,0.62,https://jlcpcb.com/partdetail/MEIHUA-MHT126UBCT/C55613448
+COMPONENT,"R1,R2",33R,0603,0603WAF330JT5E,UNI-ROYAL(Uniroyal Elec),-55℃~+155℃ 100mW 33Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,20,0.05,https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140
+COMPONENT,R3,50K,0603,RT0603BRD0750KL,YAGEO,-55℃~+155℃ 100mW 50kΩ 75V Thin Film Resistor ±0.1% ±25ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,20,0.68,https://jlcpcb.com/partdetail/YAGEO-RT0603BRD0750KL/C861451
+COMPONENT,R4,50K,0603,RT0603BRD0750KL,YAGEO,-55℃~+155℃ 100mW 50kΩ 75V Thin Film Resistor ±0.1% ±25ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,20,0.68,https://jlcpcb.com/partdetail/YAGEO-RT0603BRD0750KL/C861451
+COMPONENT,"R5,R6",1k,0603,0603WAF1001T5E,UNI-ROYAL(Uniroyal Elec),-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,20,0.03,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190
+COMPONENT,R7,1K,0603,0603WAF1001T5E,UNI-ROYAL(Uniroyal Elec),-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,20,0.03,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190
+COMPONENT,SW1,SW_DPDT_x2,SW_PUSH_E-Switch_FS5700DP_DPDT,DSIC01LHGET,"DongGuan KINGTEK Industrial Co.,LTD","-40℃~+85℃ 1 3,000 Cycles Black PC Pin SPST Slide, Rocked 插件 DIP Switches ROHS",2,1.05,https://jlcpcb.com/partdetail/55982-DSIC01LHGET/C54957
+COMPONENT,U1,AMS1117-3.3,SOT-223-3_TabPin2,AMS1117-3.3,Advanced Monolithic Systems,"-40℃~+125℃ 0.003%Vout 1 1.1V@(800mA) 15V 1A 3.3V 5mA 72dB@(120Hz) Fixed Over Current Protection、Short Circuit Protection、Thermal shutdown Positive SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",2,0.39,https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186
+COMPONENT,U2,L7805,TO-252-2,L7805,OSEN,"0℃~+125℃@(Tj) 1 1.2A 20V 2V@(1A) 42uV 500uA 5V 73dB@(120Hz) Fixed Positive Short Circuit Protection TO-220ST Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",2,0.35,https://jlcpcb.com/partdetail/OSEN-L7805/C22378639
+COMPONENT,U3,MPU-6050,InvenSense_QFN-24_4x4mm_P0.5mm,MPU-6050,TDK InvenSense,"-40℃~+85℃ 16bit 1KB 2.375V~3.46V 5uA Accelerometer Gyroscope I2C X,Y,Z X,Y,Z ±16g ±2000dps QFN-24-EP(4x4) Accelerometers ROHS",2,41.99,https://jlcpcb.com/partdetail/TDKInvenSense-MPU6050/C24112
+COMPONENT,U5,STM32F401CBUx,QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm,STM32F401CBU6,STMicroelectronics,-40℃~+85℃ 1.7V~3.6V 128KB 12bit 32 Bit 36 64KB 84MHz ARM Cortex-M4 Built-in FLASH UFQFPN-48(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,2,17.20,https://jlcpcb.com/partdetail/STMicroelectronics-STM32F401CBU6/C118825
+COMPONENT,Y1,Crystal_GND24_Small,Crystal_SMD_0603-4Pin_6.0x3.5mm,X49SM3579545MSD2SC-1,YXC Crystal Oscillators,-20℃~+70℃ 160Ω 20pF 3.579545MHz Crystal Oscillator ±20ppm ±30ppm HC-49S-SMD Crystals ROHS,3,0.37,https://jlcpcb.com/partdetail/2606-X49SM3579545MSD2SC1/C2237
+COMPONENT,U4,BMP280,Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,BMP280,Bosch Sensortec,-40℃~+85℃ 0.12hpa 1.5pa/K 1.71V~3.6V 1hpa 300nA 30Kpa~1.1bar I2C、SPI Integrated ADC and digital interface、On-chip calibration and non-volatile storage、Standby mode、On-chip temperature output LGA-8(2x2.5) Pressure Sensors ROHS,2,26.18,https://jlcpcb.com/partdetail/BoschSensortec-BMP280/C83291
+
+COST BREAKDOWN,Item,,,,,,Quantity,Price (USD),
+COST,PCB Price,,,,,,1,4.00,
+COST,Setup Fee,,,,,,1,25.75,
+COST,Stencil,,,,,,1,8.27,
+COST,Panel,,,,,,1,0.00,
+COST,Large Size,,,,,,1,0.00,
+COST,Components (15 items),,,,,,1,89.85,
+COST,Feeders Loading fee,,,,,,1,20.15,
+COST,SMT Assembly,,,,,,1,0.91,
+COST,Hand-soldering labor fee,,,,,,1,3.61,
+COST,Manual Assembly,,,,,,1,0.30,
+COST,Packaging fee,,,,,,1,0.50,
+COST,Shipping,,,,,,1,22.12,
+TOTAL,Grand Total,,,,,,,175.46,
