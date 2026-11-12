@@ -52,7 +52,8 @@ So I made a custom flight controller which can be used for an RC Plane . it is b
 | Manual Assembly | $0.30 |
 | Packaging Fee | $0.50 |
 | Shipping | $22.12 |
-| **GRAND TOTAL** | **$175.46** |
+|Import Tax | $54.76|
+| **GRAND TOTAL** | **$230.22** |
 
 
 ### Schematic
